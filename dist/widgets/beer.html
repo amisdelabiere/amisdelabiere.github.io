@@ -1,0 +1,62 @@
+<template bindable="beer">
+     <div class="col-md-4 beer-photo">
+        <div if.bind="beer.image" style="background-image:url('${beer.image}')"></div>
+    </div>
+    <div class="col-md-8 beer">
+        <h1>${beer.name}</h1>
+        <form>
+            <div class="form-group row" if.bind="beer.origin">
+                <label for="inputOrigin" class="col-sm-2 form-control-label">Origine</label>
+                <div class="col-sm-10">
+                    <span class="form-control">${beer.origin}</span>
+                    <input type="text" class="form-control hidden" id="inputOrigin" placeholder="Origin" value="${beer.origin}">
+                </div>
+            </div>
+            <div class="form-group row" if.bind="beer.brewery">
+                <label for="inputBrasserie" class="col-sm-2 form-control-label">Brasserie</label>
+                <div class="col-sm-10">
+                    <span class="form-control">${beer.brewery}</span>
+                    <input type="text" class="form-control hidden" id="inputBrasserie" placeholder="Brasserie" value="${beer.brewery}">
+                </div>
+            </div>
+            <div class="form-group row" if.bind="beer.type">
+                <label for="inputType" class="col-sm-2 form-control-label">Type</label>
+                <div class="col-sm-10">
+                    <span class="form-control">${beer.type}</span>
+                    <input type="text" class="form-control hidden" id="inputType" placeholder="Type" value="${beer.type}">
+                </div>
+            </div>
+
+            <div class="form-group row" if.bind="beer.color">
+                <label for="inpuColor" class="col-sm-2 form-control-label">Couleur</label>
+                <div class="col-sm-10">
+                    <span class="form-control">${beer.color}</span>
+                    <input type="text" class="form-control hidden" id="inputColor" placeholder="Color" value="${beer.color}">
+                </div>
+            </div>
+            <div class="form-group row" if.bind="beer.alcohol">
+                <label for="inputAlcohol" class="col-sm-2 form-control-label">Alcool</label>
+                <div class="col-sm-10">
+                    <span class="form-control">${beer.alcohol.toFixed(1)}% alc./vol</span>
+                    <input type="text" class="form-control hidden" id="inputAlcohol" placeholder="% alc./vol" value="${beer.alcohol}">
+                </div>
+            </div>
+            <div class="form-group row" if.bind="beer.ml">
+                <label for="inputMl" class="col-sm-2 form-control-label">Quantité</label>
+                <div class="col-sm-10">
+                    <span class="form-control">${beer.ml}ml</span>
+                    <input type="text" class="form-control hidden" id="inputMl" placeholder="Ml" value="${beer.ml}">
+                </div>
+            </div>
+            
+            <div class="form-group row" if.bind="beer.mentions.length &gt; 0">
+                <label for="mentionSummary" class="col-sm-2 form-control-label">Mentions</label>
+                <div class="col-sm-10">
+                    <ul class="beer-mentions">
+                        <li repeat.for="mention of beer.mentions">${mention}</li>
+                    </ul>
+                </div>
+            </div>
+        </form>
+    </div>
+</template>

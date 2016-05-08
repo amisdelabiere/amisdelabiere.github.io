@@ -1,0 +1,964 @@
+{
+  "members": [
+    {
+      "name": "Iuri",
+      "since": "2014-09",
+      "title": "It'll blow your mind.",
+      "description": "Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.",
+      "photo": "iuri.jpg"
+    },
+    {
+      "name": "Silvio",
+      "since": "2014-09",
+      "title": "It'll blow your mind.",
+      "description": "Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.",
+      "photo": "silvio.jpg"
+    },
+    {
+      "name": "Juan Carlos",
+      "since": "2014-09",
+      "title": "It'll blow your mind.",
+      "description": "Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.",
+      "photo": "jc.jpg"
+    },
+    {
+      "name": "Alexander",
+      "since": "2014-09",
+      "title": "It'll blow your mind.",
+      "description": "Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.",
+      "photo": "alexander.jpg"
+    },
+    {
+      "name": "Mathieu",
+      "since": "2014-09",
+      "title": "It'll blow your mind.",
+      "description": "Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.",
+      "photo": "mathieu.jpg"
+    },
+    {
+      "name": "Louis-Philippe",
+      "since": "2014-09",
+      "title": "It'll blow your mind.",
+      "description": "Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.",
+      "photo": "lp.jpg"
+    }
+  ],
+  "tastings": [
+    {
+      "date": "2015-03-05",
+      "location": "ChezLien",
+      "host": "Unknown Soldier",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "dsc_0105.jpg#"
+      ],
+      "beers": [
+        {
+          "name": "Chopp Pilsen",
+          "brewery": "Brahma",
+          "origin": "Brasil",
+          "type": "",
+          "color": "Golden",
+          "alcohol": 4.8,
+          "ml": 473,
+          "mentions": ["Desde 1888", "Cerveja Pilsen", "Malte, água e cevada.", "Não é à toa que a Brahma Chopp tem esse nome. Tanto ela quanto o Chopp Brahma nascem da mesma fonte, têm o mesmo processo de fabricação e só são separados no envasamento. Por isso ela é tão leve e refrescante, como o verdadeiro chopp.", "O processo de fabricação da Brahma Chopp é mais lento, já que a cerveja precisa de mais tempo para ganhar corpo e produzir um sabor marcante."]
+        },
+        {
+          "name": "SKOL 360",
+          "brewery": "Ambev (AB InBev)",
+          "origin": "São Paulo, Brasil",
+          "type": "Pale Lager",
+          "color": "Golden",
+          "alcohol": 4.2,
+          "ml": 473,
+          "mentions": ["Cerveja Leve Tipo Pilsen"]
+        },
+        {
+          "name": "Antartica SubZero",
+          "brewery": "Ambev (AB InBev)",
+          "origin": "São Paulo, Brazil",
+          "type": "Pale Lager",
+          "color": "Golden",
+          "alcohol": 4.6,
+          "ml": 473,
+          "mentions": []
+        },
+        {
+          "name": "Itaipava",
+          "brewery": "Cervejaria Petropolis",
+          "origin": "Pedro do Rio - Petrópolis RJ, Brazil",
+          "type": "Pale Lager",
+          "color": "Golden",
+          "alcohol": 4.5,
+          "ml": 473,
+          "mentions": ["Cerveja Pilsen", "Desenvolvida em Petrópolis, região serrana do Rio de Janeiro, ela tem participação cada vez maior no mercado nacional. Isso é fruto de sua indiscutível qualidade que todos os dias, só faz aumentar a legião de consumidores que não abrem mão de uma cerveja sem comparação."]
+        },
+        {
+          "name": "Heineken",
+          "brewery": "Heineken Nederland",
+          "origin": "Zoeterwoude, Netherlands",
+          "type": "Pale Lager",
+          "color": "Golden",
+          "alcohol": 5.0,
+          "ml": 473,
+          "mentions": ["Original Recipe", "Premium Quality", "Brewed with passion for quality"]
+        }
+      ]
+    },
+    {
+      "date": "2016-03-10",
+      "host": "Unknown Soldier",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "dsc_0021~2.jpg#"
+      ],
+      "beers": [
+        {
+          "name": "La Pitoune",
+          "brewery": "Le Trou du Diable",
+          "origin": "Québec",
+          "type": "Pilsner",
+          "color": "",
+          "alcohol": 5.0,
+          "ml": 600,
+          "mentions": ["Bière qui descend bien", "Reckless beer", "Avec cette pilsner, Le Trou du Diable a voulu faire, telle que décrite sur l’étiquette, une «bière qui descend bien». Avec ce goût de céréales, une finale ferreuse et une amertume contrôlée, nous sommes près des bières blondes commerciales qui dominent le marché québécois. Bien sûr, c’est mieux fait, mais sachez que La Pitoune ne goûte pas la bière typique de microbrasserie. En revanche, si vous avez envie d’une blonde légère, aussi bien encourager ces vaillants brasseurs.", "eau, malt d’orge, houblon, levure"]
+        },
+        {
+          "name": "Koru",
+          "brewery": "Beau",
+          "origin": "Belgium",
+          "type": "Pale Ale",
+          "color": "Golden",
+          "alcohol": 6.0,
+          "ml": 0,
+          "mentions": ["Koru Belgian-Style Pale Ale boasts interesting spicy, peppery yeast notes, with tropical fruit inflections from New Zealand nelson sauvin and rakau hops. Complex and tasty, with a dry finish.", "More sessionable than bigger Belgian styles, the Belgian Pale Ale came to prominence in the mid-20th century. A balanced fruity and floral hop character is complemented by the peppery, spicy notes of Belgian yeast. Beau’s first created Koru in 2012 for our annual Vankleek Hill Oktoberfest celebration.", "Koru pours deep gold with white frothy foam. The aroma combines tropical fruit with citrusy notes such as candied orange. Koru is medium-bodied and the flavours are peppery and fruity suggesting mango, papaya, pineapple and grapefruit. The finish offers lingering spice.", "Chicken schnitzel with mango & papaya salsa; avocado, lime, red onion & shrimp salad; grilled peaches wrapped in prosciutto; Burrata or fresh buffalo mozzarella cheese."]
+        },
+        {
+          "name": "Disco Soleil",
+          "brewery": "Dieu du Ciel!",
+          "origin": "Montreal, Québec",
+          "type": "American IPA",
+          "color": "",
+          "alcohol": 6.5,
+          "ml": 341,
+          "mentions": ["Bière forte", "Brassée avec des kumquats", "Kumquats IPA"]
+        },
+        {
+          "name": "Dubaï Pillée",
+          "brewery": "Le Trou du Diable",
+          "origin": "Québec",
+          "type": "Double IPA",
+          "color": "",
+          "alcohol": 9.0,
+          "ml": 600,
+          "mentions": ["Bière invasive extra-forte", "Extra String Invasive Beer", "2015 World Beer Awards (Royaume-Uni) Canada’s Best Imperial IPA", "La Dubaï Pillée est une bière dorée et cristalline dont la mousse blanche et tenace laisse échapper de fines bulles qui nous picotent la langue.  Elle présente un nez exotique dominé par la mangue, le fruit de la passion et l’abricot, mélange qui rappelle la fraîcheur du sauvignon blanc. En bouche, s’installe rapidement un équilibre entre le malt sucré et les fruits confits où la chaleur de l’alcool dévoile à peine ses charmes, et dont la finale se confond entre douceur et amertume."]
+        }
+      ]
+    },
+    {
+      "date": "2015-09-03",
+      "host": "Unknown Soldier",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "dsc_0008.jpg#"
+      ],
+      "beers": [
+        {
+          "name": "Caractère Rouge",
+          "brewery": "Rodenbach",
+          "origin": "Roeselare, Belgium",
+          "type": "ALE",
+          "color": "Red/Brown",
+          "alcohol": 7.0,
+          "ml": 750,
+          "mentions": ["Limited Edition", "Raspberries", "Sour Cherries", "Aged in oak foeders", "The brewer allow the beer to macerate with fresh cherries, raspberries and cranberries. After this maceration in oak, the beer re-ferments in the bottle. The result is RODENBACH Caractère Rouge, an exceptional RODENBACH with fruit maceration and a 7% alcohol volume. The brew is more than unique and extremely exclusive, as only 900 75-cl bottles were produced. Geunes serves this wilful beer as part of his other unique range of beer varieties in his restaurant, ’t Zilte, at the Antwerp MAS museum."]
+        },
+        {
+          "name": "Duchesse de Bourgogne",
+          "brewery": "Brouwerij Verhaeghe ",
+          "origin": "Belgium",
+          "type": "Flanders Red Ale",
+          "color": "Red",
+          "alcohol": 6.2,
+          "ml": 370,
+          "mentions": ["Flemish Art of Brewring", "Kastrel Gobsheek", "Hugo Maertens", "Belgian top-fermented reddish-brown ale, a blend of 8 and 18 months old beers following the careful maturation in oak casks."]
+        },
+        {
+          "name": "Solstice d'été",
+          "brewery": "Dieu du Ciel!",
+          "origin": "Montreal, Québec",
+          "type": "Berliner Weissbier",
+          "color": "",
+          "alcohol": 5.9,
+          "ml": 341,
+          "mentions": ["Bière de blé sûr brassée avec des cerises", "Sour whrat beer brewed with cherries", "Bière Forte", "German inspired sour wheat beer. The obvious and domineering acidity of this beer is obtained by letting the unboiled wort go sour for several days. The Solstice d’Été is made complete by the addition, during the fermentation process, of a phenomenal quantity of whole fruit (raspberries or mangos or cherries) which compensate for the sourness of the beer. The result is a very refreshing beer where both acidity and fruity flavours dominate wholeheartedly."]
+        }
+      ]
+    },
+    {
+      "date": "2015-09-18",
+      "host": "Unknown Soldier",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "dsc_0026.jpg#"
+      ],
+      "beers": [
+        {
+          "name": "Honey Dew",
+          "brewery": "Fuller's",
+          "origin": "England",
+          "type": "English Pale Ale",
+          "color": "Golden",
+          "alcohol": 3.0,
+          "ml": 500,
+          "mentions": ["Bière dorée biologique","Organic Golden Beer", "All Natural", "Brewed with a delicious hint of honey, Organic Honey Dew is a beer even for those who don’t like beer. It’s one of our most refreshing drinks, best served chilled, and it’s created with 100% natural, organic ingredients.", "Product of England", "Brewed to 5% ABV, Organic Honey Dew imparts gentle honey sweetness both on the nose and the palate. Orange fruit flavours rise from the yeast, while the First Gold hop adds its own citrusy notes. Refreshing and zesty, it’s the perfect companion for salads and Thai foods."]
+        },
+        {
+          "name": "Original",
+          "brewery": "Innis & Gunn",
+          "origin": "Edinburgh",
+          "type": "Scottish",
+          "color": "Golden honey",
+          "alcohol": 6.6,
+          "ml": 500,
+          "mentions": ["Oak aged beer", "Hand-crafted Scottish beer", "This is our firstborn brew, whose accidental discovery started our story in 2003. Its originality also lies in its singular taste – notes of biscuity malt and vanilla swirling within a creamy, mellow character. ", "Smooth Scottish beer with mints of tofee, vanilla and oak", "Oak aged like no other beer", "Brewed in small batches", "Original"]
+        },
+        {
+          "name": "Creemore Springs Premium Lager",
+          "brewery": "Creemore Springs Brewery Limited",
+          "origin": "Ontario, Canada",
+          "type": "Red Lager",
+          "color": "Amber",
+          "alcohol": 5.0,
+          "ml": 373,
+          "mentions": ["Premium Lager", "Since 1987", "All natural spring water", "Eau de source entièrement naturelle", "Lager is made the world over, but Creemore Springs Premium Lager is one of a kind. In all our travels, we've never found another like it. From the start, we've fire-brewed our flagship beer to be unique. It’s always made with the best ingredients and a strict adherence to traditional brewing methods. It’s just different up here, and so is our lager."]
+        }
+      ]
+    },
+    {
+      "date": "2015-09-24",
+      "host": "Unknown Soldier",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "dsc_0031.jpg#"
+      ],
+      "beers": [
+        {
+          "name": "Pisco Acholado",
+          "brewery": "Pisco Viejo Tonel",
+          "origin": "Peru",
+          "type": "Quebranta, Italia y Torontel",
+          "color": "",
+          "alcohol": 0.0,
+          "ml": 750,
+          "mentions": ["Not just a pisco, also a friend", "Is a Pisco with strength and soft character to the taste, reminiscent of almonds and figs and roundness in the mouth with body and fineness", "Acholado", "Cosecha 2012", "Pisco", "Butella #03147"]
+        },
+        {
+          "name": "Carolus",
+          "brewery": "Gouden",
+          "origin": "Mechelen, Belgium",
+          "type": "Abbey Tripel",
+          "color": "",
+          "alcohol": 9.0,
+          "ml": 0,
+          "mentions": ["Tripel", "In spite of modern brewing technology, this beer is brewed according to ancient traditions. It unites, now as in the past, the best products of our soil: rich barley and fine hops.. It's refined character, with a pure and rich taste, will captivate you. It is matured at length in cellar and bottle, and is guaranteed to be brewed only from pale malts. It is traditionally top-fermented and is 100% pure. The Gouden Carolus Triple has a unique colour and a full flavour due to its well-balanced hopping. To properly savour the Golden Carolus “Triple”, pour slowly in one movement leaving the yeast deposit in the bottle. This beer may be served cool but not chilled: 7-8°C is recommended. In 2002 this beer won the Gold Award in the World Beer Cup, San Diego, USA in the “Triple” category."]
+        },
+        {
+          "name": "Chouffe",
+          "brewery": "Brasserie d'Achouffe",
+          "origin": "Belgium",
+          "type": "Belgian IPA",
+          "color": "",
+          "alcohol": 9.0,
+          "ml": 750,
+          "mentions": ["Bière extra forte", "Extra Strong Beer", "Double IPA Triple", "Dobbelen IPA Tripel", "A unique marriage between the English tradition of IPAs, the new American revolution of Imperial IPAs and the classic Belgian way of brewing. Houblon Chouffe, although very much hopped as it is, showcases the unique balance between a very strong IPA and a very special Belgian Tripel exclusively created for this ale (Big malty body, distinct dryness, expressive estery fruitiness). - IBU: 59, Original Gravity: 1092"]
+        }
+      ]
+    },
+    {
+      "date": "2015-10-02",
+      "host": "Unknown Soldier",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "dsc_0034.jpg#"
+      ],
+      "beers": [
+        {
+          "name": "La Blanche de Shawi",
+          "brewery": "Le Trou du Diable",
+          "origin": "Shawinigan, Québec",
+          "type": "",
+          "color": "Blanche",
+          "alcohol": 5.0,
+          "ml": 600,
+          "mentions": ["Bière rafraîchissante", "Refreshing beer", "Avec son voile opalescent aux couleurs de blé, La Blanche de Shawi dessine une fine dentelle au fil des gorgées. Elle présente un nez d’agrumes subtilement épicé de coriandre et de citron. La bouche offre d’abord à nos papilles la douceur de son blé, puis une alternance aigre-fruité qui s’étire dans une finale rafraîchissante."]
+        },
+        {
+          "name": "Lime et Framboise",
+          "brewery": "La Baberie",
+          "origin": "Québec",
+          "type": "Pale Ale",
+          "color": "",
+          "alcohol": 5.0,
+          "ml": 500,
+          "mentions": ["Pale Ale sur lie", "Pale Ale on lees", "Microbrasserie coopérative de travail", "Depuis 1997"]
+        },
+        {
+          "name": "Le Castor Session Houblon",
+          "brewery": "Microbrasserie Le Castor",
+          "origin": "Rigaud, Québec",
+          "type": "Session IPA",
+          "color": "",
+          "alcohol": 4.3,
+          "ml": 660,
+          "mentions": ["Bière biologique", "Session Houblon", "India Session ALE", "Organic Beer", "Microbrasserie Le Castor", "Le Castor Brewing Company", "La India Pale Ale est sans aucun doute le style de bière artisanale le plus populaire au monde. Parfois, on a envie de houblon dans une bière plus légère. La soirée est jeune, les conversations coulent à flot et on souhaite en boire plus d’une. La India Session Ale est née pour combler ce désir inassouvi. C’est notre interprétation de ce style émergent : un niveau débridé de houblonnage dans une bière qui vous permet de garder la tête froide, de jour comme de nuit. The India Pale Ale is without a doubt the most popular craft beer style in the world. But sometimes we want all those hops, without so much alcohol. Sometimes the night is young, the conversation is great, and we want to have more than just one. The India Session Ale was born from this unsatisfied thirst. This is our interpretation of the fledgling style – an unbridled level of hop-thusiasm, in a package that lets you get on with your day, or night."]
+        },
+        {
+          "name": "Sanctuaire",
+          "brewery": "Microbrasserie Le Castor",
+          "origin": "Rigaud, Québec",
+          "type": "Abbey Tripel",
+          "color": "Golden",
+          "alcohol": 9.0,
+          "ml": 660,
+          "mentions": ["Grande Réserve", "Bière biologique", "Extra Forte", "Extra Strong", "Organic Beer", "La Triple d’abbaye, popularisée depuis des décennies par les moines Trappistes, est l’une des plus puissantes, élégantes et redoutables bières provenant de Belgique. Nous brassons la nôtre avec 100% de malt pale et une levure belge qui apporte des esters fruités ainsi qu’un côté épicé subtil sur une finale sèche. Cette bière étant parfaite pour notre série en barrique, nous avons décidé de la faire vieillir dans des barils de vins rouges, incluant les cépages Pinot Noir, Merlot et Cabernet Sauvignon. ///// The Abbey Tripel, popularized for decades by Trappist breweries, is one of the strongest, most elegant and dangerously drinkable beer styles to come from Belgium. We brewed ours with 100% pale malt, and two different Belgian yeast strains that contribute fruity esters and subtle spicy phenolics, as well as a dry finish. A beer like this is a perfect fit for our barrel aging program, so we chose to age it in a mix of red wine barrels, including Pinot Noir, Merlot and Cabernet Sauvignon."]
+        },
+        {
+          "name": "MacTavish",
+          "brewery": "Le Trou du Diable",
+          "origin": "Québec",
+          "type": "American Pale Ale",
+          "color": "",
+          "alcohol": 5.0,
+          "ml": 375,
+          "mentions": ["ALE légendaire", "Legendary Ale", "In Memoriam", "Inspirée des pale ales américaines, la MacTavish exhale des parfums de houblons verts, de terre ancestrale et d’épices. La bouche valse entre les saveurs sucrées du malt et le fruit tropical des houblons du Nouveau Monde, le tout s’étirant dans une finale des plus rafraîchissante", "Père du Seigneur Machiavel et du Baron industriel Vandegard, le vieux MacTavish était, à Bicolline, comte d’Echternach en Reikswart. Respecté pour sa sagesse et sa vaillance, il nous a quitté au printemps 2008.  Repose en paix l’ancêtre"]
+        }
+      ]
+    },
+    {
+      "date": "2015-10-23",
+      "host": "Unknown Soldier",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "dsc_0037.jpg#"
+      ],
+      "beers": [
+        {
+          "name": "Kissmeyer",
+          "brewery": "Kissmeyer Beer",
+          "origin": "",
+          "type": "Pale Ale",
+          "color": "",
+          "alcohol": 5.6,
+          "ml": 600,
+          "mentions": ["Nordic Pale Ale"]
+        },
+        {
+          "name": "Farmhouse Houblon",
+          "brewery": "Microbrasserie Le Castor",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 6.3,
+          "ml": 500,
+          "mentions": ["Bière biologique", "Bière forte", "Organic Beer", "Strong Beer"]
+        },
+        {
+          "name": "La Soutien-Gorge",
+          "brewery": "",
+          "origin": "",
+          "type": "IPA",
+          "color": "Amber",
+          "alcohol": 8.2,
+          "ml": 473,
+          "mentions": ["Brassin Signature", "IPA Impériale", "Imperial IPA", "Bière forte", "Strong Beer"]
+        },
+        {
+          "name": "Weiss",
+          "brewery": "O'Lantern",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 0.0,
+          "ml": 0,
+          "mentions": ["Pumpkins Beer"]
+        }
+      ]
+    },
+    {
+      "date": "2015-11-13",
+      "host": "Unknown Soldier",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "dsc_0004.jpg#"
+      ],
+      "beers": [
+        {
+          "name": "Cassiopée",
+          "brewery": "Multi-Brasses",
+          "origin": "Tinwick, Québec",
+          "since": 2001,
+          "type": "Fruits",
+          "alcohol": 6.0,
+          "ml": 341,
+          "mentions": ["Bière au cassis", "Blackcurrant Beer"]
+        },
+        {
+          "name": "Saison Rustique",
+          "origin": "Québec",
+          "type": "ALE",
+          "alcohol": 0.0,
+          "mentions": ["Réfrigérée en bouteille"]
+        },
+        {
+          "name": "JukeBox",
+          "brewery": "Distortion",
+          "origin": "",
+          "type": "IPA",
+          "color": "",
+          "alcohol": 7.0,
+          "ml": 0,
+          "mentions": ["80 IBU", "Extra-Fort"]
+        },
+        {
+          "name": "Péché Mortel",
+          "brewery": "",
+          "origin": "Québec",
+          "type": "Stout",
+          "color": "Dark",
+          "alcohol": 4.5,
+          "ml": 341,
+          "mentions": ["Stout imperial au café", "Imperial Cofee Stout", "Fabriqué avec du café", "Extra-Fort"]
+        }
+      ]
+    },
+    {
+      "date": "2015-12-11",
+      "host": "Alexander",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "dsc_0031(1).jpg#"
+      ],
+      "beers": [
+        {
+          "name": "AuVal Arcane 17",
+          "brewery": "Val d'Espoir",
+          "origin": "Gaspésie, Québec",
+          "type": "IPA",
+          "color": "",
+          "alcohol": 5.2,
+          "ml": 500,
+          "mentions": ["Hoppy Beer", "Bière houblonnée", "India Pale Ale"]
+        },
+        {
+          "name": "Leo's early breakfast",
+          "brewery": "Kissmeyer Beer",
+          "origin": "Dunham, Québec",
+          "type": "IPA",
+          "color": "",
+          "alcohol": 6.2,
+          "ml": 341,
+          "mentions": ["Malt d'orge", "Thé Earl Grey"]
+        },
+        {
+          "name": "Le Baron Noir",
+          "brewery": "Le Trou du Diable",
+          "origin": "Shawinigan, Québec",
+          "type": "Porter Baltique",
+          "color": "",
+          "alcohol": 7.0,
+          "ml": 600,
+          "mentions": ["Porter baltique", "Baltic Porter"]
+        },
+        {
+          "name": "Pit Caribou",
+          "brewery": "Microbrasserie Le Castor",
+          "origin": "Rigaud, Québec",
+          "type": "IPA",
+          "color": "Black",
+          "alcohol": 7.0,
+          "ml": 660,
+          "mentions": ["Black IPA", "IPA noire", "Brassin Collaboratif", "Bière forte", "Strong Beer"]
+        },
+        {
+          "name": "Victory at sea",
+          "brewery": "Balast Point Brewing Company",
+          "origin": "San Diego, California USA",
+          "type": "Imperial Porter",
+          "color": "",
+          "alcohol": 10.0,
+          "ml": 650,
+          "mentions": ["Imperial Porter", "Porter with coffee and vanilla"]
+        }
+      ]
+    },
+    {
+      "date": "2016-01-22",
+      "host": "Unknown Soldier",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "dsc_0068.jpg#"
+      ],
+      "beers": [
+        {
+          "name": "Belle Saison",
+          "brewery": "",
+          "origin": "Îles de la madeleine, Québec",
+          "type": "",
+          "color": "Golden",
+          "alcohol": 5.5,
+          "ml": 341,
+          "mentions": ["Blonde Florale", "Bière des Îles"]
+        },
+        {
+          "name": "Kissmeyer",
+          "brewery": "Kissmeyer Beer",
+          "origin": "",
+          "type": "Pale Ale",
+          "color": "",
+          "alcohol": 5.6,
+          "ml": 600,
+          "mentions": ["Nordic Pale Ale"]
+        },
+        {
+          "name": "La Chouape",
+          "brewery": "Microbrasserie Le Castor",
+          "origin": "",
+          "type": "IPA",
+          "color": "",
+          "alcohol": 6.2,
+          "ml": 500,
+          "mentions": ["India Pale Ale", "Bière forte", "Strong Beer", "Bière sur lie", "Beer on lees"]
+        },
+        {
+          "name": "Hickson",
+          "brewery": "",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 8.5,
+          "ml": 500,
+          "mentions": ["Édition Limitée", "Bière forte", "Strong Beer", "Lager", "Porter Baltique", "Brassée au Québec"]
+        },
+        {
+          "name": "L'Éclipse",
+          "brewery": "Microbrasserie Le Castor",
+          "origin": "",
+          "type": "ALE",
+          "color": "Black",
+          "alcohol": 6.8,
+          "ml": 0,
+          "mentions": ["American Black Ale"]
+        }
+      ]
+    },
+    {
+      "date": "2016-02-05",
+      "host": "Unknown Soldier",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "dsc_0091.jpg#"
+      ],
+      "beers": [
+        {
+          "name": "La Morsure",
+          "brewery": "",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 6.5,
+          "ml": 600,
+          "mentions": ["Bière forte compulsive", "Compulsive strong beer"]
+        },
+        {
+          "name": "La Charleston",
+          "brewery": "Microbrasserie Le Bilboquet",
+          "origin": "",
+          "type": "IPA",
+          "color": "",
+          "alcohol": 3.9,
+          "ml": 500,
+          "mentions": ["Quantité limitée"]
+        },
+        {
+          "name": "Écume",
+          "brewery": "",
+          "origin": "Îles de la madeleine, Québec",
+          "type": "Pilsner",
+          "color": "",
+          "alcohol": 4.8,
+          "ml": 341,
+          "mentions": ["Bière des Îles", "Pilsner Rustique"]
+        },
+        {
+          "name": "La Blanche aux Bleuets Sauvages",
+          "brewery": "",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 0.0,
+          "ml": 0,
+          "mentions": ["Édition Limitée"]
+        },
+        {
+          "name": "Antartica",
+          "brewery": "",
+          "origin": "Brasil",
+          "type": "",
+          "color": "",
+          "alcohol": 0.0,
+          "ml": 450,
+          "mentions": []
+        },
+        {
+          "name": "Bohemia",
+          "brewery": "",
+          "origin": "Brasil",
+          "type": "",
+          "color": "",
+          "alcohol": 0.0,
+          "ml": 450,
+          "mentions": ["Cerveja Pilsen", "Since 1853"]
+        },
+        {
+          "name": "Bavaria",
+          "brewery": "",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 0.0,
+          "ml": 450,
+          "mentions": []
+        }
+      ]
+    },
+    {
+      "date": "2016-04-01",
+      "host": "Unknown Soldier",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "img_20160401_125427.jpg#",
+        "dsc_0001.jpg#"
+      ],
+      "beers": [
+        {
+          "name": "BarleyWine Américain",
+          "brewery": "",
+          "origin": "Québec",
+          "type": "ALE",
+          "color": "Amber",
+          "alcohol": 9.5,
+          "ml": 750,
+          "mentions": ["Grande Cuvée", "Extra Strong Beer"]
+        },
+        {
+          "name": "MacTavish",
+          "brewery": "Le Trou du Diable",
+          "origin": "Québec",
+          "type": "American Pale Ale",
+          "color": "",
+          "alcohol": 5.0,
+          "ml": 375,
+          "mentions": ["ALE légendaire", "Legendary Ale", "In Memoriam", "Inspirée des pale ales américaines, la MacTavish exhale des parfums de houblons verts, de terre ancestrale et d’épices. La bouche valse entre les saveurs sucrées du malt et le fruit tropical des houblons du Nouveau Monde, le tout s’étirant dans une finale des plus rafraîchissante", "Père du Seigneur Machiavel et du Baron industriel Vandegard, le vieux MacTavish était, à Bicolline, comte d’Echternach en Reikswart. Respecté pour sa sagesse et sa vaillance, il nous a quitté au printemps 2008.  Repose en paix l’ancêtre"]
+        },
+        {
+          "name": "Kruhnen",
+          "brewery": "Siebenbürgen Wei&Kirch",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 5.5,
+          "ml": 640,
+          "mentions": ["Microbrasserie", "2012"]
+        },
+        {
+          "name": "Ippon",
+          "brewery": "",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 3.0,
+          "ml": 341,
+          "mentions": []
+        }
+      ]
+    },
+    {
+      "date": "2016-04-15",
+      "host": "Alexander",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "img_20160415_125957.jpg#"
+      ],
+      "beers": [
+        {
+          "name": "Immoralité",
+          "brewery": "",
+          "origin": "",
+          "type": "IPA",
+          "color": "",
+          "alcohol": 9.2,
+          "ml": 347,
+          "mentions": ["IPA américaine impériale", "Imperial American IPA", "Bière forte", "Strong Beer"]
+        },
+        {
+          "name": "Palabre",
+          "brewery": "",
+          "origin": "Îles de la madeleine, Québec",
+          "type": "",
+          "color": "",
+          "alcohol": 8.2,
+          "ml": 341,
+          "mentions": ["Bombe de soleil", "Grand Cru", "Bière sèche et fruitée", "Bière extra forte", "Extra Strong Beer"]
+        },
+        {
+          "name": "Melifera",
+          "brewery": "",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 5.0,
+          "ml": 600,
+          "mentions": ["Bière Apicole", "Honey Beer"]
+        },
+        {
+          "name": "Brett Zeste",
+          "brewery": "Microbrasserie Le Castor",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 5.0,
+          "ml": 500,
+          "mentions": ["Bière biologique", "Organic Beer"]
+        },
+        {
+          "name": "Pilz",
+          "brewery": "",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 0.0,
+          "ml": 0,
+          "mentions": ["Svetly"]
+        }
+      ]
+    },
+    
+    
+    {
+      "date": "2016-04-28",
+      "host": "Silvio",
+      "location": "ChezLien",
+      "invitees": [ ],
+      "attendance": [
+        "Iuri",
+        "Juan Carlos"
+      ],
+      "absentees": [
+        {
+          "name": "",
+          "justification": ""
+        }
+      ],
+      "photos": [
+        "WP_20160428_13_18_49_Pro.jpg"
+      ],
+      "beers": [
+        {
+          "name": "Charles Henri",
+          "brewery": "Brasserie les 3 frères",
+          "origin": "Québec",
+          "type": "Pale Ale",
+          "color": "Golden",
+          "alcohol": 5.4,
+          "ml": 500,
+          "mentions": []
+        },
+        {
+          "name": "Propol",
+          "brewery": "",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 5.2,
+          "ml": 750,
+          "mentions": ["Saison multi-grain au miel"]
+        },
+        {
+          "name": "Berliner Melon Weisse",
+          "brewery": "",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 0.0,
+          "ml": 0,
+          "mentions": []
+        },
+        {
+          "name": "Shawinigan Handshake",
+          "brewery": "",
+          "origin": "",
+          "type": "",
+          "color": "",
+          "alcohol": 6.5,
+          "ml": 600,
+          "mentions": ["Pugnace bière forte", "Pugnacious Strong Ale"]
+        },
+        {
+          "name": "Porter Baltique",
+          "brewery": "Les Trois Mousquetaires",
+          "origin": "Québec",
+          "type": "Porter Baltique",
+          "color": "",
+          "alcohol": 0.0,
+          "ml": 750,
+          "mentions": ["Grande Cuvée"]
+        }
+      ]
+    }
+    
+    
+  ]
+}

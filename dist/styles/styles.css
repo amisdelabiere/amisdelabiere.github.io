@@ -76,6 +76,186 @@ div.au-stagger {
     opacity: 1;
   }
 }
+.apropos {
+  display: table;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 42px;
+  color: #840003;
+}
+.apropos blockquote {
+  position: relative;
+  padding: 10px 45px;
+  font-size: 42px;
+  border: none;
+}
+.apropos blockquote:before,
+.apropos blockquote:after {
+  content: '\f10d';
+  font-family: 'FontAwesome';
+  font-size: 30px;
+  position: absolute;
+  top: 5px;
+  left: 8px;
+  display: block;
+}
+.apropos blockquote:after {
+  content: '\f10e';
+  top: 5px;
+  right: 8px;
+  left: auto;
+}
+.apropos cite {
+  font-size: 24px;
+}
+.apropos cite:before {
+  content: '— ';
+}
+.assemblees .timeline {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+.assemblees .timeline .scroller {
+  cursor: -webkit-grab;
+}
+.assemblees .timeline .scroller > div {
+  display: inline-block;
+  width: 80px;
+  height: 40px;
+  margin: 10px;
+  border: 1px solid transparent;
+  background-color: #d36d33;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 10px;
+  color: #e5a987;
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.assemblees .timeline .scroller > div:hover {
+  background-color: #d36d33;
+}
+.assemblees .timeline .scroller > div.selected {
+  border: 1px solid #840003;
+  background-color: #ad5725;
+}
+.assemblees .timeline-backward {
+  margin-top: 8px;
+  position: absolute;
+  right: 0;
+}
+.assemblees .timeline-forward {
+  margin-top: 8px;
+}
+.assemblees .col-xs-1,
+.assemblees .col-sm-1,
+.assemblees .col-md-1,
+.assemblees .col-lg-1 {
+  padding: 2px;
+}
+.assemblees svg > path {
+  fill: #c2612a;
+  cursor: pointer;
+}
+.assemblees svg > path:hover {
+  fill: #d36d33;
+}
+.assemblees svg > path:active {
+  fill: #ad5725;
+}
+.assemblees .beers-tab {
+  border-bottom-color: #840003;
+}
+.assemblees .beers-tab li > a {
+  color: #e5a987;
+  background-color: #d36d33;
+  border-radius: 0;
+  border-bottom-color: #840003;
+}
+.assemblees .beers-tab li > a:hover,
+.assemblees .beers-tab li > a:active {
+  border-left-color: #840003;
+  border-top-color: #840003;
+  border-right-color: #840003;
+}
+.assemblees .beers-tab li.active > a {
+  background-color: #ad5725;
+  border-bottom-color: #ad5725;
+  border-left-color: #840003;
+  border-top-color: #840003;
+  border-right-color: #840003;
+}
+.assemblees .beers-tab li.active > a:hover,
+.assemblees .beers-tab li.active > a:active,
+.assemblees .beers-tab li.active > a:focus {
+  color: #e5a987;
+}
+.assemblees .tasting h1,
+.assemblees .beer h1 {
+  margin-top: 0;
+}
+.assemblees .tasting input,
+.assemblees .beer input {
+  background: transparent;
+  border-color: transparent;
+  box-shadow: none;
+}
+.assemblees .tasting .form-control,
+.assemblees .beer .form-control {
+  padding: 2px 3px;
+  background: transparent;
+  border-color: transparent;
+  box-shadow: none;
+  color: black;
+}
+.assemblees .tasting .form-group.row,
+.assemblees .beer .form-group.row {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+.assemblees .tasting .beer-menu,
+.assemblees .beer .beer-menu,
+.assemblees .tasting .beer-mentions,
+.assemblees .beer .beer-mentions {
+  padding: 0;
+  margin-left: 4px;
+}
+.assemblees .tasting .beer-menu li,
+.assemblees .beer .beer-menu li,
+.assemblees .tasting .beer-mentions li,
+.assemblees .beer .beer-mentions li {
+  display: inline;
+  color: black;
+}
+.assemblees .tasting .beer-menu li:not(:first-child),
+.assemblees .beer .beer-menu li:not(:first-child),
+.assemblees .tasting .beer-mentions li:not(:first-child),
+.assemblees .beer .beer-mentions li:not(:first-child) {
+  padding: 3px 3px;
+}
+.assemblees .tasting .beer-menu li:not(:last-child):after,
+.assemblees .beer .beer-menu li:not(:last-child):after,
+.assemblees .tasting .beer-mentions li:not(:last-child):after,
+.assemblees .beer .beer-mentions li:not(:last-child):after {
+  content: ",";
+}
+.assemblees .tasting-photo img,
+.assemblees .beer-photo img {
+  width: 100%;
+}
+.assemblees .tasting-photo > div,
+.assemblees .beer-photo > div {
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 350px;
+}
 .welcome {
   position: absolute;
   left: 0;
@@ -338,6 +518,16 @@ div.au-stagger {
     padding-right: 2px;
   }
 }
+.bieres table {
+  margin: 10px auto;
+}
+.bieres table thead th {
+  padding: 3px 6px;
+  cursor: pointer;
+}
+.bieres table tbody tr td {
+  padding: 3px 6px;
+}
 .row {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -368,6 +558,12 @@ div.au-stagger {
   display: inline-block;
   height: 44px;
   width: 44px;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .navbar-brand > span {
   display: inline-block;
@@ -376,9 +572,21 @@ div.au-stagger {
   left: 68px;
   color: #840003;
   text-transform: uppercase;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .navbar-default .navbar-nav > li > a {
   color: #840003;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,

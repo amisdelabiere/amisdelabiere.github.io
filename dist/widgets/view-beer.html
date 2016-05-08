@@ -1,0 +1,15 @@
+<template bindable="beer">
+   <require from="widgets/beer.html"></require>
+    <ai-dialog>
+        <ai-dialog-body>
+            <div class="container">
+                <div class="row">
+                   <beer beer="beer"></beer>
+                </div>    
+            </div>    
+        </ai-dialog-body>
+        <ai-dialog-footer>
+            <button click.trigger="controller.ok(beer)">Ok</button>
+        </ai-dialog-footer>
+    </ai-dialog>
+</template>
